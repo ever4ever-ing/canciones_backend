@@ -15,7 +15,7 @@ import com.ever.canciones.model.Cancion;
 import com.ever.canciones.service.ServiceCanciones;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = {"http://localhost:4200", "http://34.59.223.175"})
 public class ControladorCanciones {
     
     @Autowired
