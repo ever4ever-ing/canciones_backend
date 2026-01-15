@@ -5,5 +5,4 @@ com\ever\canciones\repositorios\RepositorioCanciones.class
 com\ever\canciones\service\ServiceCanciones.class
 com\ever\canciones\config\CorsConfig.class
 com\ever\canciones\config\SecurityConfig.class
-com\ever\canciones\config\CorsFilter.class
 com\ever\canciones\model\Cancion.class

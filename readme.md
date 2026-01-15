@@ -254,7 +254,7 @@ sudo systemctl stop canciones
 mvn clean package -DskipTests
 
 # Iniciar la aplicación
-sudo systemctl start canciones
+sudo systemctl restart canciones
 
 # Ver logs para verificar
 sudo journalctl -u canciones -f
